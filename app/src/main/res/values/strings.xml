@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">30 Days of Fitness</string>
+    <string name="day_tip">Day %1$d</string>
+    <string name="welcome_message">Welcome to your 30-day fitness challenge!</string>
+    <string name="day1_title">Start with a Warm-up</string>
+    <string name="day1_description">Warm up with 5 minutes of light cardio.</string>
+    <string name="day2_title">Full-body Stretch</string>
+    <string name="day2_description">Do a full-body stretch to improve flexibility.</string>
+    <string name="day3_title">Push-ups</string>
+    <string name="day3_description">Perform 20 push-ups to build upper body strength.</string>
+    <!-- Add more strings as needed -->
+</resources>

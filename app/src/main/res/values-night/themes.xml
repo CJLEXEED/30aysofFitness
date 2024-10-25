@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._30DaysOfFitness" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- res/values-night/styles.xml -->
+        <?xml version="1.0" encoding="utf-8"?>
+        <resources>
+
+            <!-- Dark Theme -->
+            <style name="AppTheme.Dark" parent="Theme.Material3.Dark.NoActionBar">
+                <item name="colorPrimary">@color/colorPrimaryDark</item>
+                <item name="colorOnPrimary">@color/white</item> <!-- Text/icons on primary color -->
+                <item name="colorSecondary">@color/colorSecondaryDark</item>
+                <item name="colorOnSecondary">@color/white</item>
+                <item name="android:background">@color/backgroundColorDark</item> <!-- Background color -->
+                <item name="android:textColor">@color/textColorDark</item> <!-- Text color -->
+                <item name="android:windowBackground">@color/backgroundColorDark</item>
+            </style>
+
+        </resources>
+
+    </style>
+</resources>
